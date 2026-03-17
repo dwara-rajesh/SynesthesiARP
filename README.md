@@ -9,8 +9,9 @@
 
 > **SynesthesiARP** is a self-contained, real-time arpeggiating synthesizer that converts live video into rich audio, designed for portability and low-latency performance on embedded hardware.
 
-[View Demo](https://www.youtube.com/watch?v=1fKRt8jVq0s
-)
+[View Demo](https://www.youtube.com/watch?v=1fKRt8jVq0s)
+
+Music heard in Demo Video is output of the Synth!
 
 ---
 
